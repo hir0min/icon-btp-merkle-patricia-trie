@@ -1,5 +1,21 @@
 {
   "name": "merkle-patricia-trie",
+  "author": {
+    "name": "Tan Nguyen (hiromin)",
+    "email": "tannguyen1742@gmail.com"
+  },
+  "version": "1.0",
+  "description": "Merkle Patricia Trie for ICON BTP",
+  "keywords": [
+    "icon",
+    "btp",
+    "mpt",
+    "merkle patricia trie",
+    "rlp",
+    "solidity",
+    "ethereum"
+  ],
+  "license": "Apache-2.0",
   "scripts": {
     "clean": "npx hardhat clean",
     "compile": "npx hardhat compile",
