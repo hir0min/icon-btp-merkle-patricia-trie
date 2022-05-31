@@ -27,7 +27,7 @@ $ docker run --rm -p 9933:9933 -p 9944:9944 purestake/moonbeam:v0.23.0 --dev --w
 ```
 $ yarn compile
 ```
-3. Run unit and integration test
+3. Run unit tests
 ```
 $ yarn test
 ```
